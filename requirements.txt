@@ -1,0 +1,11 @@
+google-adk
+pytest
+pytest-asyncio
+deprecated
+pandas
+tabulate
+tqdm
+scikit-learn
+mcp
+google-adk-mcp
+python-jobspy
